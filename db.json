@@ -1,0 +1,52 @@
+{
+  "products": [
+    {
+      "id": 2,
+      "name": "printer",
+      "price": "39000",
+      "quantity": 1000,
+      "selected": false,
+      "available": true
+    },
+    {
+      "id": 3,
+      "name": "computer",
+      "price": 300,
+      "quantity": 1400,
+      "selected": false,
+      "available": true
+    },
+    {
+      "id": 4,
+      "name": "smartphone",
+      "price": 400,
+      "quantity": 100,
+      "selected": true,
+      "available": false
+    },
+    {
+      "name": "Laptop",
+      "price": "100",
+      "quantity": "4",
+      "selected": true,
+      "available": true,
+      "id": 5
+    },
+    {
+      "name": "on",
+      "price": 0,
+      "quantity": 0,
+      "selected": true,
+      "available": true,
+      "id": 7
+    },
+    {
+      "name": "toto",
+      "price": 0,
+      "quantity": 0,
+      "selected": true,
+      "available": true,
+      "id": 8
+    }
+  ]
+}
